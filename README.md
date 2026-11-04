@@ -32,7 +32,7 @@ python checks.py
 
 ## 發布至 GitHub Pages
 
-目前檔案可在本機瀏覽；Repository 與公開網址須實際建立、部署成功後才能填入。以下是作者確認要公開後的操作方式，不代表已完成發布。
+已部署至 <https://forggy0113.github.io/grad-survival-guide/>，發布來源為 `main` 分支的根目錄。已實際檢查公開首頁與三篇指南、手機與桌機寬度及文章往返導覽。以下保留發布流程，供日後重建或更新使用。
 
 1. 在 GitHub 建立公開 Repository，例如 `grad-survival-guide`。上傳本資料夾的專案檔案，確保 `index.html` 位於 Repository 根目錄；不要上傳個資、密鑰或不屬於專案的課堂資料。`.nojekyll` 是用來略過 Jekyll 的空檔案，使用 Git 上傳時一併保留。
 2. 前往 Repository 的 **Settings → Pages → Build and deployment**，將 Source 設為 **Deploy from a branch**，選擇實際存放檔案的分支（通常為 `main`）及 **/(root)**，按 Save。
@@ -43,13 +43,13 @@ python checks.py
 
 ## 作業繳交文字草稿
 
-以下欄位需作者填寫與核對，尤其公開連結；尚未發布時不能當作完整繳交成果。
+以下連結已填入實際發布位置；繳交前請作者填寫標題中的個人資料，並核對內容。
 
 - 標題：`學校 學號 系級 姓名 研究生生存指南`
 - 專案簡介：本專案以「實驗室迷因小報」呈現研究生生存指南，用輕鬆標題搭配實用內容，整理讀論文、準備報告與每週規劃的方法；網站可在手機和桌機閱讀，並透過 AGENTS.md 維持後續內容的一致性。
-- GitHub Repository：待填入真實連結。
-- 網頁連結：待部署成功後填入真實連結。
-- AI 協作規則：附上 Repository 中的 `AGENTS.md` 連結或文件全文。
+- GitHub Repository：<https://github.com/forggy0113/grad-survival-guide>
+- 網頁連結：<https://forggy0113.github.io/grad-survival-guide/>
+- AI 協作規則：[AGENTS.md](https://github.com/forggy0113/grad-survival-guide/blob/main/AGENTS.md)
 
 延伸方式說明：
 
