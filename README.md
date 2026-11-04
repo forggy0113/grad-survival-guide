@@ -40,19 +40,3 @@ python checks.py
 4. 將真實 Repository 與網站連結補入下方繳交文字；確認公開網址不用登入也能瀏覽。後續更新同一分支即可觸發重新部署。
 
 操作參考：[GitHub 官方發布來源設定](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)。網站採相對路徑，可部署在 Repository 子路徑，不需要自訂網域或 Actions 設定檔。
-
-## 作業繳交文字草稿
-
-以下連結已填入實際發布位置；繳交前請作者填寫標題中的個人資料，並核對內容。
-
-- 標題：`學校 學號 系級 姓名 研究生生存指南`
-- 專案簡介：本專案以「實驗室迷因小報」呈現研究生生存指南，用輕鬆標題搭配實用內容，整理讀論文、準備報告與每週規劃的方法；網站可在手機和桌機閱讀，並透過 AGENTS.md 維持後續內容的一致性。
-- GitHub Repository：<https://github.com/forggy0113/grad-survival-guide>
-- 網頁連結：<https://forggy0113.github.io/grad-survival-guide/>
-- AI 協作規則：[AGENTS.md](https://github.com/forggy0113/grad-survival-guide/blob/main/AGENTS.md)
-
-延伸方式說明：
-
-> 我在 AGENTS.md 定義了專案目的、文章命名與存放位置、共用視覺規範，以及「遇到的問題、可以怎麼做、實際例子、行動清單、下一步」五段內容格式。之後新增主題時，AI 可以參考既有指南，建立新頁面並更新首頁入口，再執行檢查程式確認格式與連結。這樣不必每次重新說明版型與寫作方式，也能維持網站的一致性。
-
-這是可修改的初稿；請依自己的想法與實際使用經驗調整內容，並依課程規定說明 AI 協作方式。
